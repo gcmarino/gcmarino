@@ -6,6 +6,7 @@ Actualmente vivo en Bolivia 🇧🇴 y tengo 28 años. Programo desde los 14 �
 ### 🚀 Tecnologías
 - Frontend: **Angular**, **React**
 - Backend: **NestJS**, **.NET Core**, **Socket.IO**, **SignalR**
+- Bases de datos: **PostgreSQL**, **MongoDB**
 - Microservicios: **NATS**, **RabbitMQ**
 - DevOps: **Jenkins**, **Bitbucket Pipelines**
 - Mobile: **Flutter**
