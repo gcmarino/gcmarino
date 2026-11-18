@@ -1,78 +1,64 @@
 # 👋 Hey! I'm Gian
 
-**Full Stack Developer | Mobile Developer | Software Enthusiast**
+**Full Stack Developer · Mobile Developer · Software Enthusiast**
 
-I'm a Colombian software developer 🇨🇴 currently living in Bolivia 🇧🇴. I've been programming since I was 14, constantly exploring new technologies and building software across web, mobile, and backend ecosystems.
+Colombian 🇨🇴 living in Bolivia 🇧🇴. Programming since I was 14. I enjoy building software, exploring new technologies, and understanding how things work under the hood.
 
-I enjoy solving real-world problems through software, designing reliable backends, building applications, and experimenting with emerging technologies. I'm passionate about understanding how things work under the hood, from application architecture to infrastructure and deployment.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🚀 Tech Stack
+### 💻 Development
 
 **Frontend**
-- Angular, React
-- TypeScript, JavaScript
-- HTML, CSS, Tailwind CSS
+- Angular · React
+- TypeScript · JavaScript
+- Tailwind CSS
 
 **Backend**
-- Node.js, NestJS, Fastify
-- C# / .NET
-- REST APIs, GraphQL
-- Socket.IO, SignalR
-- CQRS, Clean Architecture
+- Node.js · NestJS · Fastify
+- C# · .NET
+- REST · GraphQL
+- Socket.IO · SignalR
 
-**Mobile Development**
-- Flutter
-- Ionic
+**Mobile**
+- Flutter · Ionic
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Infrastructure & Data
 
 **Databases & Storage**
-- PostgreSQL, MongoDB, SQL Server
-- Redis
-- S3-compatible storage (MinIO, RustFS)
+- PostgreSQL · MongoDB
+- SQL Server · Redis
+- MinIO · S3
 
-**Messaging & Distributed Systems**
-- NATS, RabbitMQ
-- gRPC
-- Event-driven architectures
-- Microservices
+**DevOps**
+- Docker · K3s · Linux
+- Coolify · Dokploy
+- GitHub Actions · Jenkins
+- Azure · DigitalOcean
 
-**DevOps & Infrastructure**
-- Docker, K3s
-- Linux, Ubuntu
-- Coolify, Dokploy
-- GitHub Actions, Jenkins, Bitbucket Pipelines
-- Azure, DigitalOcean
-- Self-hosted infrastructure
+**Messaging**
+- NATS · RabbitMQ · gRPC
 
-**AI & Automation**
-- OpenAI, Gemini, Ollama
-- n8n
-- Retrieval-Augmented Generation (RAG)
-- AI agents and API integrations
-- Workflow automation
+</td>
+</tr>
+<tr>
+<td colspan="2">
 
-### 🛠️ What I Enjoy Building
+### 🤖 AI & Automation
 
-- Full-stack applications, from architecture to deployment.
-- Mobile applications and their backend ecosystems.
-- Scalable APIs, integrations, and automation workflows.
-- Distributed systems and event-driven architectures.
-- AI-powered applications and intelligent automation tools.
-- Self-hosted services and infrastructure.
+OpenAI · Gemini · Ollama · n8n · RAG · AI Agents · Workflow Automation
 
-### 💡 A Little More About Me
+</td>
+</tr>
+</table>
 
-- 🇨🇴 Colombian, currently living in Bolivia 🇧🇴.
-- 💻 Programming since I was 14.
-- 🐧 Linux enthusiast.
-- 🧠 Always learning, experimenting, and exploring new technologies.
-- 🏗️ I enjoy understanding how things work under the hood, not just making them work.
-- 🔧 I like building personal projects and experimenting with self-hosted technologies.
+### 🌐 Find Me
 
-### 🌐 Find Me Around the Web
-
-- **Portfolio:** [gian.oh-taku.com](https://gian.oh-taku.com)
-- **LinkedIn:** [https://www.linkedin.com/in/gcmarino/]
-- **Email:** [gcmarino99@gmail.com]
+[Portfolio](https://gcmarino.oh-taku.site) · [LinkedIn](https://www.linkedin.com/in/gcmarino/) · [Email](mailto:gcmarino99@gmail.com)
 
 ---
 
